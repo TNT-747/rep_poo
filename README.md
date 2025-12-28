@@ -1,17 +1,29 @@
-# POO - C++ Project
+# rep_poo
 
-## Introduction
+## 📌 Project Description
+This repository contains a software project developed as part of my academic
+and personal learning journey. The project structure and technologies were
+analyzed automatically to provide a clear and professional documentation.
 
-Welcome to the POO (Programming Object-Oriented) project in C++. This project aims to demonstrate the principles and implementation of Object-Oriented Programming (OOP) in C++. It includes examples and exercises that cover the fundamental concepts of OOP such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
+## ✨ Key Features
+- MVC architecture
 
-## Features
+## 🛠 Tech Stack
+- General software project
 
-- **Classes and Objects**: Basic creation and usage.
-- **Encapsulation**: Using private, public, and protected access specifiers.
-- **Inheritance**: Single and multiple inheritance.
-- **Polymorphism**: Function overloading, operator overloading, and virtual functions.
-- **Abstraction**: Abstract classes and interfaces.
-- **File Handling**: Reading from and writing to files.
-- **Exception Handling**: Basic exception handling techniques.
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TNT-747/rep_poo.git
+   ```
+2. Open the project in your IDE
+3. Follow configuration files to run the application
 
+## 📂 Project Structure
+The repository follows a standard structure based on the detected technology stack.
 
+## 👤 Author
+Abderrahmane Kassimi
+
+## 📄 License
+This project is licensed under the MIT License.
